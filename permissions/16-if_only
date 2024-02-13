@@ -1,2 +1,2 @@
 #!/bin/bash
-find hello -user guillaume hello chown : vincent
+if hello -user guillaume hello chown vincent
