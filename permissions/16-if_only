@@ -1,2 +1,2 @@
 #!/bin/bash
-if hello -user guillaume hello chown vincent
+chown --from= guillaume:staff -R vincent:staff
