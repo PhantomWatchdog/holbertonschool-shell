@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3 -w root | wc -l
+grep -A 3 root | wc -l
