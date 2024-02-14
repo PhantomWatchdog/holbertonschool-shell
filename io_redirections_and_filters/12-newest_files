@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -path . | ls -t 
+ls -lt
