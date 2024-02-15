@@ -1,3 +1,2 @@
 #!/bin/bash
 cat acrostic_1 | cut -c 1 | paste -s -d ''
-cat acrostic_3 | cut -c 3 | paste -s -d ''
