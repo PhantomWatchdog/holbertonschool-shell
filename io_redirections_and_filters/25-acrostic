@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | cat 
+cat Eli | cut -c1 | cat
