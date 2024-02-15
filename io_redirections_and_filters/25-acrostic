@@ -1,2 +1,2 @@
 #!/bin/bash
-cat Eli | cut -c1 | cat
+cat acrostic_1 | cut -c1 | cat
