@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort /etc/passwd
+cat /etc/passwd | cut -d: -f 7 
