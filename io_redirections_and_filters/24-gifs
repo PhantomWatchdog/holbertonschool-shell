@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | find . -name \*gif | rev | cut -d/ -f 1 | rev | cut -d. -f 1
+ls -la | find . -name \*gif | rev | cut -d/ -f 1 | rev | cut -d. -f 1 | sort
