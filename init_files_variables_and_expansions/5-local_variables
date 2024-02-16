@@ -1,0 +1,2 @@
+#!/bin/bash
+printenv | grep -i "^[A-Z,a-z]" | sort -k 1
